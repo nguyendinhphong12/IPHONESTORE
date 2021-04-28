@@ -1,0 +1,38 @@
+.content {
+	width: 1500px;
+	height: auto;
+	background-color: #ffffff !important;
+	margin: auto;
+	margin-top: 12px;
+}
+*{
+	padding: 0px;
+	margin: 0px;
+}
+body {
+	background-color: #efe9e9 !important;
+}
+a {
+	display: block !important;
+	text-decoration: none !important; 
+}
+.nav nav-tabs {
+	width: 1500px;
+}
+.container{
+	background-color: #ffffff;
+	width: 1200px !important;
+	height: auto !important;
+	margin: auto !important;
+}
+.contents {
+	height: 200px !important;
+	width: 100%;
+	background-color: #ffffff;
+}
+.navbar-inverse {
+
+}
+.text-center{
+	height: 200px !important;
+}
